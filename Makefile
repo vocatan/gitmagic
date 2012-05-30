@@ -52,7 +52,7 @@ $(foreach l,$(TRANSLATIONS),$(addprefix $(l)/,$(TXTFILES))):
 # of ignoring return codes.
 
 $(foreach l,$(LANGS),book-$(l)): book-%: book-%.xml
-	xmlto -m custom-html.xsl -o book-$* html book-$*.xml
+	xmlto --skip-validation -m custom-html.xsl -o book-$* html book-$*.xml
 	sed -i'' -e 's/xmlns:fo[^ ]*//g' book-$*/*.html
 	-ls book-$*/*.html | xargs -n 1 tidy -utf8 -m -i -q
 	./makeover $*
