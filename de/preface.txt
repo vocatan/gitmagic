@@ -45,7 +45,7 @@ Bedarf zuschneiden kannst.
  - link:book.html[Einzelne Webseite]: reines HTML, ohne CSS.
  - link:book.pdf[PDF Datei]: druckerfreundlich.
  - http://packages.debian.org/gitmagic[Debian Packet],
-   http:://packages.ubuntu.com/gitmagic[Ubuntu Packet]: Für eine schnelle
+   http://packages.ubuntu.com/gitmagic[Ubuntu Packet]: Für eine schnelle
    und lokale Kopie dieser Seite. Praktisch,
    http://csdcf.stanford.edu/status/[wenn dieser Server offline ist].
  - http://www.amazon.com/Git-Magic-Ben-Lynn/dp/1451523343/[Gedrucktes Buch

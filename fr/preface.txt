@@ -55,7 +55,7 @@ recettes pour répondre à vos besoins.
  - link:book.pdf[fichier PDF]&#160;: version imprimable.
 
  - http://packages.debian.org/gitmagic[package Debian],
-   http:://packages.ubuntu.com/gitmagic[package Ubuntu]&#160;: obtenez
+   http://packages.ubuntu.com/gitmagic[package Ubuntu]&#160;: obtenez
    rapidement une copie locale de ce site. Pratique lorsque
    http://csdcf.stanford.edu/status/[ce serveur] est arrêté.
 

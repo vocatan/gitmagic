@@ -158,11 +158,11 @@ msgstr "link:book.pdf[PDF Datei]: druckerfreundlich."
 #. type: Bullet: ' - '
 #: ../en/preface.txt:29
 msgid ""
-"http://packages.debian.org/gitmagic[Debian package], http:://packages.ubuntu."
+"http://packages.debian.org/gitmagic[Debian package], http://packages.ubuntu."
 "com/gitmagic[Ubuntu package]: get a fast and local copy of this site. Handy "
 "http://csdcf.stanford.edu/status/[when this server is offline]."
 msgstr ""
-"http://packages.debian.org/gitmagic[Debian Packet], http:://packages.ubuntu."
+"http://packages.debian.org/gitmagic[Debian Packet], http://packages.ubuntu."
 "com/gitmagic[Ubuntu Packet]: Für eine schnelle und lokale Kopie dieser "
 "Seite. Praktisch, http://csdcf.stanford.edu/status/[wenn dieser Server "
 "offline ist]."

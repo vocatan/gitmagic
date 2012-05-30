@@ -37,7 +37,7 @@ http://git.or.cz/[Git] 堪称版本控制瑞士军刀。这个可靠、多才多
  - link:book.html[单一文件]: 纯HTML，无CSS。
  - link:book.pdf[PDF文件]: 打印效果好.
  - http://packages.debian.org/gitmagic[Debian包]，
-   http:://packages.ubuntu.com/gitmagic[Ubuntu包]: 本站快速本地拷贝。如果
+   http://packages.ubuntu.com/gitmagic[Ubuntu包]: 本站快速本地拷贝。如果
    http://csdcf.stanford.edu/status/[下线了]会方便些。
  - http://www.amazon.com/Git-Magic-Ben-Lynn/dp/1451523343/[纸质书
    [Amazon.com]]: 64 页, 15.24cm x 22.86cm, 黑白。 没有电子设备的时候会方便些。
